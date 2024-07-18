@@ -1,4 +1,4 @@
-Esses são os requerimentos do desafio Proposto.
+ESSE E O REQUERIMENTO DO DESAFIO PROPOSTO NO CURSO DE POWER BI DA DIO.
 
 A terceira página, a qual vocês irão criar sozinhos, deve conter alguns visuais. Esse desafio visa treinar a habilidade de criação de visuais. Assim, você poderá criar familiaridade com esses recursos. Em módulos mais avançados iremos tratar do layout mais elaborado dos nossos relatórios.  
 
